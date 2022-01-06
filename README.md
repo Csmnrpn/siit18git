@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titlu
 
 ## Subtitlu
@@ -11,3 +12,7 @@
 - item 4 on dev
 
 
+=======
+## Subtitlu 3
+
+>>>>>>> develop
